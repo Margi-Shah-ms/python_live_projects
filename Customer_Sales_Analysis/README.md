@@ -48,5 +48,3 @@ A Python data analysis project to explore **customer purchases, sales trends, an
 
 * `Customer_Sales_analysis.ipynb` — Analysis, code, and outputs
 * `customer_sales_data.csv` — Dataset
-
-**Note:** The notebook contains the completed Python code along with its outputs and visualizations.
